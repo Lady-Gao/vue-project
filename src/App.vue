@@ -7,7 +7,7 @@ import TheWelcome from './components/TheWelcome.vue'
   <header>
 
     <div class="wrapper">
-  44423423423
+  333333
     </div>
   </header>
 
