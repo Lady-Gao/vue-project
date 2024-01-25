@@ -7,7 +7,7 @@ import TheWelcome from './components/TheWelcome.vue'
   <header>
 
     <div class="wrapper">
-      <HelloWorld msg="You did it!" />
+    dfsdfdf
     </div>
   </header>
 
